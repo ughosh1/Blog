@@ -1,0 +1,11 @@
+# basic options
+title: Bits and Pieces
+author: ughosh1
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: 
+github_username:  ughosh1
+
+# Build settings
+markdown: kramdown
+theme: minima
