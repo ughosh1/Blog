@@ -10,4 +10,4 @@ Given a histogram / bar graph, each bar having a width of 1, if water is poured 
 
 ![](Blog/Images/TrappingRainWater/fig1.jpg?raw=true)
 
-![Figure1](https://github.com/ughosh1/Blog/Images/TrappingRainWater/fig1.jpg "Figure1")
+![Figure1](https://github.com/ughosh1/Blog/blob/master/Images/TrappingRainWater/fig1.jpg "Figure1")
