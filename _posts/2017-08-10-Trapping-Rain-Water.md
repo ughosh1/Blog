@@ -8,4 +8,4 @@ title: Trapping Rain Water
 
 Given a histogram / bar graph, each bar having a width of 1, if water is poured from above, calculate the amount of water that can be trapped inside the histogram.
 
-![](Blog/Images/TrappingRainWater/FinalVariable - Fig0.jpg?raw=true)
+![](Blog/Images/TrappingRainWater/fig1.jpg?raw=true)
